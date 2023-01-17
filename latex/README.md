@@ -4,7 +4,7 @@ This is a landing page to point to handouts I write/compile.
 
 - [Set 1](pset-1.pdf), 2023 January 18
 
-[Last 5 problems of AIME 2015-2022](AIMELast5.pdf)
+[Last 5 problems of AIME 2015-2022](AIMElast5.pdf)
 
 # Handouts
 
