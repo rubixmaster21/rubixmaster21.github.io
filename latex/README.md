@@ -1,5 +1,3 @@
-# rubixmaster21.github.io/latex
-
 This is a landing page to point to handouts I write/compile.
 
 # Problem sets
