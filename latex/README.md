@@ -1,4 +1,4 @@
-This is a landing page to point to handouts I write/compile. I am forever grateful to the existence of (evan.sty)[https://raw.githubusercontent.com/vEnhance/dotfiles/main/texmf/tex/latex/evan/evan.sty] and [latexmk](https://mg.readthedocs.io/latexmk.html).
+This is a landing page to point to handouts I write/compile. I am forever grateful to the existence of [evan.sty](https://raw.githubusercontent.com/vEnhance/dotfiles/main/texmf/tex/latex/evan/evan.sty) and [latexmk](https://mg.readthedocs.io/latexmk.html).
 
 # Problem sets
 
