@@ -9,5 +9,5 @@ This is a landing page to point to handouts I write/compile.
 # Handouts
 
 - [Intimidation handout](intimidation.pdf) ([shortened](intimidation-lecture.pdf)); posted to [AoPS](https://artofproblemsolving.com/community/c5h2984461)
-- [Quick intro to Counting and Probability](introcombo-lecture)
+- [Quick intro to Counting and Probability](introcombo-lecture.pdf)
 - [LCM and GCD](lcmgcd-lecture.pdf) (already shortened)
