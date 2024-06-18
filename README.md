@@ -6,4 +6,4 @@ apemogarus
 
 [peter griffin loves the stars](https://rubixmaster21.github.io/astr%20=onomy.pdf)
 
-[Miquel?? Point??](https://rubixmaster21.github.io/miquel.png)
+![Miquel?? Point??](https://rubixmaster21.github.io/miquel.png)
