@@ -6,7 +6,7 @@ apemogarus
 
 [Best of 2021! Movies! Best!](./wbsite)
 
-[miqquelspinveerte](https://rubixmaster21.github.io/miquel.png)
+[miqquelspinveerte](https://rubixmaster21.github.io/miqquel.png)
 
 >
 > *Explain x^2+y^2+z^2+xyz=4.*
