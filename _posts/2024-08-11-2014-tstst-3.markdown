@@ -1,0 +1,28 @@
+---
+layout: single
+title: "TSTST 2014/3"
+date: 2024-08-11 11:08:00
+categories:
+  - math
+---
+
+{% capture one %}
+Find all polynomials $P\in \mathbb{R}[x]$ such that
+$$P(x\sqrt 2)=P(x+\sqrt{1-x^2})$$
+for all $|x|\le 1$.
+{% endcapture %}
+{% include prob.html content=one type="Problem" %}
+
+We claim the answer is $P(x)=x^2(x+1)^2(x-1)^2(x^2-2)$ up to scaling and shifting.
+
+Under the condition, we are allowed to assume $P(0)=0$. Then, we substitute $x=\frac{\sin(t)}{2}$:
+\\[P(\sin(t))=P(\sin(t+\pi/4)).\\]
+So $P(x)$ is degree at least $8$, and in fact taking
+\\[0=P(0)=P(\sin(\pi/4)\sqrt{2})=\dots\\]
+gives us our answer.
+
+Interestingly, the problem is given in the form
+\\[P(x)=P(f(x));\\]
+this means that for any integer $n$ we should have $P(x)=P(f^n(x))$.
+But if $f$ was not periodic, this would force $P$ to be the constant polynomial.
+So this guess helps to motivate the trig substitution.

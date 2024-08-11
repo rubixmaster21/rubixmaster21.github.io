@@ -1,18 +1,24 @@
 ---
-layout: page
+layout: single
 title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+*I am [RubixMaster21](https://aops.com/community/user/RubixMaster21) on AoPS.*
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+apemogarus
 
+[peter griffin loves the stars](/assets/pdf/astr%20=onomy.pdf)
 
-[jekyll-organization]: https://github.com/jekyll
+[Best of 2021! Movies! Best!](./wbsite) [defunct]
+
+[miqquelspinveerte](/assets/img/miqquel.png)
+
+>
+> *Explain x^2+y^2+z^2+xyz=4.*
+>
+> **Geometric Interpretation:** This equation can be related to a geometric interpretation involving a sphere and a plane. The equation *x^2+y^2+z^2=4* represents a sphere of radius 2 centered at the origin in 3-dimensional space. The term *xyz* introduces an additional constraint that alters this shape in a manner that's not straightforwardly spherical.
+>
+*--Chat GPT*
+

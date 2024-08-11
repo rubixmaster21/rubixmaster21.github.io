@@ -1,0 +1,5 @@
+main:
+  - title: "about"
+    url: /about/
+  - title: "categories"
+    url: /categories/

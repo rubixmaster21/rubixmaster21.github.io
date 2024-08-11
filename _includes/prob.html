@@ -1,0 +1,16 @@
+<style>
+.prob {
+  border: 2px solid black;
+  background-color: #FFFFFF;
+  padding: 0.5em 0.3em 0.7em 0.7em;
+  margin-bottom: 1em;
+  color: #000000
+}
+</style>
+
+<div class="prob d-flex">
+  <b>{{include.type | strip}}.</b><br/>
+  <div markdown="span" style="margin-left: 0.7em;">
+    {{include.content | strip}}
+  </div>
+</div>
