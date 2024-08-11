@@ -6,17 +6,19 @@
 @import "minimal-mistakes";
 
 html {
-  font-size: 8px !important; // change to whatever
+  font-size: 10px !important; // change to whatever
 
   @include breakpoint($medium) {
-    font-size: 10px !important; // change to whatever
-  }
-
-  @include breakpoint($large) {
     font-size: 12px !important; // change to whatever
   }
 
-  @include breakpoint($x-large) {
+  @include breakpoint($large) {
     font-size: 14px !important; // change to whatever
   }
+
+  @include breakpoint($x-large) {
+    font-size: 16px !important; // change to whatever
+  }
 }
+
+$max-width: calc(100vw - 250px);
